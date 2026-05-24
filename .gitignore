@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+local.properties
+*.iml
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Android Studio
+captures/
+.cxx/
+
+# Keystores (NIE commitujemy — debug auto-generated, release per-deploy)
+*.jks
+*.keystore
+keystore.properties
+
+# OS
+.DS_Store
+Thumbs.db
